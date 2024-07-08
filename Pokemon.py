@@ -1,3 +1,3 @@
 print ("Hello world from Shrimol")
-name = shri
+name = shrimol
 print(name)
